@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+    <ModulePrefs title="Products" height="600px" width="500px"/>
+    <Content type="html">
+        <![CDATA[
+
+ <link href="https://sites.google.com/a/twiga-tours.com/twiga-tours2016/bootstrap.min.css" rel="stylesheet" type="text/css">
+ <link href="https://sites.google.com/a/twiga-tours.com/twiga-tours2016/mystyle.css" rel="stylesheet" type="text/css">
+    
+<!--Begining of aside section gadget        -->
+        
+    <aside style="border-right: 1px solid #dddddd;">
+    <div class="container">
+    <div class="row">
+        
+     <div class="col-md-3" style="margin-left: 15%;">
+         <div class="pad-body">
+                 <h2>Twiga Tours apps</h2>
+        <h3>Click to go to app</h3>
+         <div class="row">
+          <a href='javascript:window.parent.location=&#39;https://sites.google.com/a/twiga-tours.com/twiga-tours2016/repository&#39;;_top' style="font-family:Calibri;font-size:20px;">Unit Trust</a><br>
+    
+                        <a href="https://sites.google.com/a/twiga-tours.com/twiga-tours2016/calendar">
+                            <img alt="calendar" src="https://sites.google.com/a/twiga-tours.com/twiga-tours2016/calendar_btn_on_MouseClick.png" class="menu" />
+                        </a>
+                        <a  href="https://sites.google.com/a/twiga-tours.com/twiga-tours2016/gallery">
+                            <img alt="photos" src="https://sites.google.com/a/twiga-tours.com/twiga-tours2016/photo_bnt_on_MouseClick.png" class="menu" />
+                        </a> 
+         </div>
+         <div class="row">
+                        <a  href="https://sites.google.com/a/twiga-tours.com/twiga-tours2016/repocitory">
+                            <img alt="Documents" src="https://sites.google.com/a/twiga-tours.com/twiga-tours2016/document_btn_on_MouseClick.png" class="menu" />
+                        </a>
+         </div>
+         </div>
+                
+        </div> 
+        </div> 
+        </div>
+    </aside>
+    
+  
+
+]]>
+    </Content>
+</Module>
