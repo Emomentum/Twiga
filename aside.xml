@@ -18,8 +18,6 @@
                  <h2>Twiga Tours apps</h2>
         <h3>Click to go to app</h3>
          <div class="row">
-          <a href='javascript:window.parent.location=&#39;https://sites.google.com/a/twiga-tours.com/twiga-tours2016/repository&#39;;_top' style="font-family:Calibri;font-size:20px;">Unit Trust</a><br>
-    
                         <a href='javascript:window.parent.location=&#39;https://sites.google.com/a/twiga-tours.com/twiga-tours2016/calendar&#39;;_top'>
                             <img alt="calendar" src="https://sites.google.com/a/twiga-tours.com/twiga-tours2016/calendar_btn_on_MouseClick.png" class="menu" />
                         </a>
